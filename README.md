@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Balasubramanian S
 
-<!--
-**balasubramanian-s/balasubramanian-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Cloud Engineer | DevOps Enthusiast | Continuous Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm an aspiring cloud engineer with a proven track record of designing, implementing, and optimizing cloud-based solutions. My passion lies in leveraging cloud technologies to drive innovation and efficiency.
+
+---
+
+## 🚀 Skills & Technologies
+
+- **Cloud Platforms**: AWS, Azure
+- **DevOps Tools**: Docker, Kubernetes, Jenkins
+- **Programming Languages**: Python, JavaScript
+- **Infrastructure as Code**: Terraform, Ansible
+- **Monitoring & Logging**: Prometheus, Grafana
+
+---
+
+## 🏢 Experience
+
+- **Progress**: Software Engineer II
+- **Revature**: Software Engineer | Devops | Cloud Architect
+
+---
+
+## 🎓 Education
+
+- **Great Lakes Institute of Management**  
+  *[PGPCC]*
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn Profile](https://in.linkedin.com/in/balasubramanian-s-257354137)
+
+---
+
+*I'm always eager to collaborate on exciting projects and learn from the community. Feel free to reach out!*

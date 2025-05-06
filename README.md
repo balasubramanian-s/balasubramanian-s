@@ -19,6 +19,13 @@ I'm an aspiring cloud engineer with a proven track record of designing, implemen
 - **Monitoring & Logging**: Prometheus, Grafana
 
 ---
+### 📊 GitHub Stats  
+
+![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balasubramanian-s&show_icons=true&theme=radical&card_width=500)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balasubramanian-s&layout=compact&theme=radical&card_width=500)  
+
+
+---
 
 ## 🏢 Experience
 

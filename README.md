@@ -12,7 +12,7 @@ I'm an aspiring cloud engineer with a proven track record of designing, implemen
 
 ## 🚀 Skills & Technologies
 
-- **Cloud Platforms**: AWS, Azure
+- **Cloud Platforms**: AWS, Azure, GCP
 - **DevOps Tools**: Docker, Kubernetes, Jenkins
 - **Programming Languages**: Python, JavaScript
 - **Infrastructure as Code**: Terraform, Ansible
@@ -21,7 +21,7 @@ I'm an aspiring cloud engineer with a proven track record of designing, implemen
 ---
 ### 📊 GitHub Stats  
 
-![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balasubramanian-s&show_icons=true&theme=radical&card_width=500)  
+![Bala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balasubramanian-s&show_icons=true&theme=radical&card_width=500)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balasubramanian-s&layout=compact&theme=radical&card_width=500)  
 
 
@@ -29,7 +29,7 @@ I'm an aspiring cloud engineer with a proven track record of designing, implemen
 
 ## 🏢 Experience
 
-- **Progress**: Software Engineer II
+- **Progress**: Senior Software Engineer I
 - **Revature**: Software Engineer | Devops | Cloud Architect
 
 ---
